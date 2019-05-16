@@ -14,3 +14,6 @@ elif bulan == '10' : print('oktober')
 elif bulan == '11' : print('november')
 elif bulan == '12'  : print('desember')
 else : print('bulan planet lain')
+
+
+print('git lainnya')
